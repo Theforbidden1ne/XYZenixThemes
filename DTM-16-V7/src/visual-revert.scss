@@ -20,7 +20,7 @@
     grid-template-areas: "guilds sidebar" "guilds panels";
     grid-template-columns: [start] min-content [sidebarStart] 1fr [end];
     grid-template-rows: [start] 1fr [panelsStart] min-content [end];
-    width: calc(80px + 240px) !important;
+    width: calc(80px + 300px) !important;
     border-radius: 0;
     >._5e434347c823b592-guilds {
       grid-area: guilds;
